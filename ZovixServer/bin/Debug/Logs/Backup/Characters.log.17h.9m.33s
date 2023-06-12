@@ -1,0 +1,93 @@
+[18:55:52] N InitLog : Logger initialized
+[18:55:52] I RpcServer : Starting... 6899
+[18:55:52] I Load : Registering RpcConnector : RpcConnectorpassword
+[18:55:52] I RpcConnector : Server = Shared.RpcServer
+[18:55:52] I RpcServer : Registering Rpc : AccountMgr
+[18:55:52] I RpcServer : Registering Rpc : CacheMgr
+[18:55:52] I RpcServer : Registering Rpc : CharacterMgr
+[18:55:52] S RpcServer : Server listening on : 6899
+[18:55:52] I DBManager : Registering table: Account
+[18:55:53] I DataConnection : New DB Connection
+[18:55:53] I DBManager : Registering table: Account_banned
+[18:55:53] I DBManager : Registering table: Character_StartItems
+[18:55:53] I DataConnection : New DB Connection
+[18:55:53] I DBManager : Registering table: Cache_Info
+[18:55:53] I DBManager : Registering table: ItemCache_Info
+[18:55:53] I DBManager : Registering table: Map_Info
+[18:55:53] I DBManager : Registering table: Model_Info
+[18:55:53] I DBManager : Registering table: RaceSexMask_Info
+[18:55:53] I DBManager : Registering table: Text_Info
+[18:55:53] I DBManager : Registering table: Character
+[18:55:53] I DBManager : Registering table: Character_Position
+[18:55:53] I DBManager : Registering table: Character_Item
+[18:55:53] I DBManager : Registering table: Creation_Name
+[18:55:53] I DBManager : Registering table: Creation_Position
+[18:55:53] I DBManager : Registering table: Realm
+[18:55:53] I DBManager : Registering table: Zone_Info
+[18:55:53] I DBManager : Registering table: Items_Template
+[18:55:53] I DBManager : Registering table: Character_StartItems
+[18:55:53] I DataConnection : New DB Connection
+[18:55:53] I DBManager : Registering table: Cache_Info
+[18:55:53] I DBManager : Registering table: ItemCache_Info
+[18:55:53] I DBManager : Registering table: Map_Info
+[18:55:53] I DBManager : Registering table: Model_Info
+[18:55:53] I DBManager : Registering table: RaceSexMask_Info
+[18:55:53] I DBManager : Registering table: Text_Info
+[18:55:53] I DBManager : Registering table: Character
+[18:55:53] I DBManager : Registering table: Character_Position
+[18:55:53] I DBManager : Registering table: Character_Item
+[18:55:53] I DBManager : Registering table: Creation_Name
+[18:55:53] I DBManager : Registering table: Creation_Position
+[18:55:53] I DBManager : Registering table: Realm
+[18:55:53] I DBManager : Registering table: Zone_Info
+[18:55:53] I DBManager : Registering table: Items_Template
+[18:55:53] S LoadRealms : Loaded 1 Realm(s)
+[18:55:53] S LoadCreation_Names : Loaded 0 Random Name(s)
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001B7
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001D7
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001DD
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001E8
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001D6
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001D5
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001C2
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001B3
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001EF
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001F0
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001B2
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001B1
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001C0
+[18:55:53] S RegisterDefinitions : Registering Handler : 0000019D
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001C5
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001B4
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001E5
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001C1
+[18:55:53] S RegisterDefinitions : Registering Handler : 0000019E
+[18:55:53] S RegisterDefinitions : Registering Handler : 000001AF
+[18:55:53] S RegisterDefinitions : Registering Handler : 000003EA
+[18:55:53] S RegisterDefinitions : Registering Handler : 01153F70
+[18:55:53] S RegisterDefinitions : Registering Handler : 00000019
+[18:55:53] S RegisterDefinitions : Registering Handler : 01153F6A
+[18:55:53] S RegisterDefinitions : Registering Handler : 00001E17
+[18:55:53] S RegisterDefinitions : Registering Handler : 000000DE
+[18:55:53] S RegisterDefinitions : Registering Handler : 00000E10
+[18:55:53] S RegisterDefinitions : Registering Handler : 00000DBF
+[18:55:53] S RegisterDefinitions : Registering Handler : 00000002
+[18:55:53] S RegisterDefinitions : Registering Handler : 0000025B
+[18:55:53] S RegisterDefinitions : Registering Handler : 000003EF
+[18:55:53] S RegisterDefinitions : Registering Handler : 00000080
+[18:55:53] I TCPManager : Starting...
+[18:55:53] I TCPManager : Loading the Packet Handler
+[18:55:53] I TCPManager : Loading Crypt Handler
+[18:55:53] S TCPManager : Server listening to : 0.0.0.0:45000
+[18:55:53] I ConsoleMgr : Commands list : 
+[18:55:53] I ConsoleMgr : .help : <command>
+[18:55:53] I ConsoleMgr : .create : <Username,Password>
+[18:55:53] I ConsoleMgr : .realm : <id(1-41) type(1=Pvp,2=RP,3=PVP-RP) lang(1=En-3=Ger-5=Fr)>
+[18:55:53] I ConsoleMgr : .shutdown : <time in second>
+[18:55:59] I RpcServer : New client: WorldServer, ID=1
+[18:55:59] I ClientInfo : Loading of : Shared.AccountMgr
+[18:55:59] I ClientInfo : Loading of : Shared.CacheMgr
+[18:55:59] I ClientInfo : Loading of : Shared.CharacterMgr
+[18:55:59] S Realm : World (Imperium) Online at : 127.0.0.1:50000
+[18:58:03] E RpcServer : Client disconnected : 1
+[18:58:03] E Realm : World (Imperium) Offline at : 127.0.0.1:50000

@@ -7,3 +7,12 @@ C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\WorldS
 C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\WorldServer\obj\Debug\WorldServer.csproj.CopyComplete
 C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\WorldServer\obj\Debug\WorldServer.exe
 C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\WorldServer\obj\Debug\WorldServer.pdb
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\bin\Debug\WorldServer.exe.config
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\bin\Debug\WorldServer.exe
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\bin\Debug\WorldServer.pdb
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\WorldServer\obj\Debug\WorldServer.csproj.AssemblyReference.cache
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\WorldServer\obj\Debug\WorldServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\WorldServer\obj\Debug\WorldServer.csproj.CoreCompileInputs.cache
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\WorldServer\obj\Debug\WorldServer.csproj.CopyComplete
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\WorldServer\obj\Debug\WorldServer.exe
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\WorldServer\obj\Debug\WorldServer.pdb

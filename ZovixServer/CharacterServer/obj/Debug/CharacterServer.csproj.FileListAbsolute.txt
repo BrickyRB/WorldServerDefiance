@@ -19,3 +19,12 @@ C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\Charac
 C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\CharacterServer\obj\Debug\CharacterServer.csproj.CopyComplete
 C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\CharacterServer\obj\Debug\CharacterServer.exe
 C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\CharacterServer\obj\Debug\CharacterServer.pdb
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\bin\Debug\CharacterServer.exe.config
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\bin\Debug\CharacterServer.exe
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\bin\Debug\CharacterServer.pdb
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\CharacterServer\obj\Debug\CharacterServer.csproj.AssemblyReference.cache
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\CharacterServer\obj\Debug\CharacterServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\CharacterServer\obj\Debug\CharacterServer.csproj.CoreCompileInputs.cache
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\CharacterServer\obj\Debug\CharacterServer.csproj.CopyComplete
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\CharacterServer\obj\Debug\CharacterServer.exe
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\CharacterServer\obj\Debug\CharacterServer.pdb
