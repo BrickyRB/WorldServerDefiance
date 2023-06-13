@@ -65,7 +65,7 @@ namespace WorldServer
                 Channel.ChannelName = "Mathosia";
                 Channel.CharacterName = From.Char.Name;
                 Channel.Field2 = 2;
-                From.SendSerialized(Channel); //test
+                From.SendSerialized(Channel); //tes
             }
 
             {
