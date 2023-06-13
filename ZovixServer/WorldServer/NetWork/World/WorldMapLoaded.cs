@@ -7,7 +7,7 @@ using Shared;
 
 namespace WorldServer
 {
-    [ISerializableAttribute((long)Opcodes.WorldMapLoaded)]
+    [ISerializableAttribute((long)Opcodes.WorldMapLoaded)] //I haven't found anything wrong with this, I just.. really feel a mem leak here
     public class WorldMapLoaded : ISerializablePacket
     {
         public override void OnRead(RiftClient From)
@@ -53,7 +53,7 @@ namespace WorldServer
             }
 
             {
-                WorldChannelJoinned Channel = new WorldChannelJoinned();
+                WorldChannelJoinned Channel = new WorldChannelJoinned(); //these just don't exist in Defiance, this won't work, remove this
                 Channel.ChannelName = "Niveau 1-9";
                 Channel.CharacterName = From.Char.Name;
                 Channel.Field2 = 5;
