@@ -1,0 +1,34 @@
+[17:10:04] N InitLog : Logger initialized
+[17:10:04] I Connect : Registering connector : tcp://127.0.0.1:6899/RpcConnectorpassword
+[17:10:04] S RpcClient : Connected to : 127.0.0.1:6899
+[17:10:04] I RpcClient : Loading
+[17:10:05] S RegisterDefinitions : Registering Handler : 000003E9
+[17:10:05] S RegisterDefinitions : Registering Handler : 000003E8
+[17:10:05] S RegisterDefinitions : Registering Handler : 000010CE
+[17:10:05] S RegisterDefinitions : Registering Handler : 000010CC
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000E55
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000007
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000F04
+[17:10:05] S RegisterDefinitions : Registering Handler : 000011CE
+[17:10:05] S RegisterDefinitions : Registering Handler : 00001E99
+[17:10:05] S RegisterDefinitions : Registering Handler : 000003EC
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000DAF
+[17:10:05] S RegisterDefinitions : Registering Handler : 000010E9
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000271
+[17:10:05] S RegisterDefinitions : Registering Handler : 000003EA
+[17:10:05] S RegisterDefinitions : Registering Handler : 01153F70
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000019
+[17:10:05] S RegisterDefinitions : Registering Handler : 01153F6A
+[17:10:05] S RegisterDefinitions : Registering Handler : 00001E17
+[17:10:05] S RegisterDefinitions : Registering Handler : 000000DE
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000E10
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000DBF
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000002
+[17:10:05] S RegisterDefinitions : Registering Handler : 0000025B
+[17:10:05] S RegisterDefinitions : Registering Handler : 000003EF
+[17:10:05] S RegisterDefinitions : Registering Handler : 00000080
+[17:10:05] I TCPManager : Starting...
+[17:10:05] I TCPManager : Loading the Packet Handler
+[17:10:05] I TCPManager : Loading Crypt Handler
+[17:10:05] S TCPManager : Server listening to : 0.0.0.0:50000
+[17:10:05] E WorldServer : Invalid Realm : 1

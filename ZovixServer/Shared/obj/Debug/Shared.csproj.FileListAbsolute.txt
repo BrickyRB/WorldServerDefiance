@@ -5,3 +5,10 @@ C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\Shared
 C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\Shared\obj\Debug\Shared.csproj.CopyComplete
 C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\Shared\obj\Debug\Shared.dll
 C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\Shared\obj\Debug\Shared.pdb
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\bin\Debug\Shared.dll
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\bin\Debug\Shared.pdb
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\Shared\obj\Debug\Shared.csproj.CopyComplete
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\Shared\obj\Debug\Shared.dll
+C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\Shared\obj\Debug\Shared.pdb

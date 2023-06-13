@@ -1,7 +1,7 @@
-[17:56:52] N InitLog : Logger initialized
-[17:56:52] I Connect : Registering connector : tcp://127.0.0.1:6899/RpcConnectorpassword
-[17:56:56] E RcpClient : Can not connect to : 127.0.0.1:6899
-[17:56:56] E RpcClient : Erreur = System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:6899
+[17:21:49] N InitLog : Logger initialized
+[17:21:49] I Connect : Registering connector : tcp://127.0.0.1:6899/RpcConnectorpassword
+[17:21:53] E RcpClient : Can not connect to : 127.0.0.1:6899
+[17:21:53] E RpcClient : Erreur = System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:6899
 
 Server stack trace: 
    at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)

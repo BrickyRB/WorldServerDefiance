@@ -1,7 +1,7 @@
-[17:56:52] N InitLog : Logger initialized
-[17:56:52] I Connect : Registering connector : tcp://127.0.0.1:6899/RpcConnectorpassword
-[17:56:56] E RcpClient : Can not connect to : 127.0.0.1:6899
-[17:56:56] E RpcClient : Erreur = System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:6899
+[17:54:23] N InitLog : Logger initialized
+[17:54:23] I Connect : Registering connector : tcp://127.0.0.1:6899/RpcConnectorpassword
+[17:54:28] E RcpClient : Can not connect to : 127.0.0.1:6899
+[17:54:28] E RpcClient : Erreur = System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:6899
 
 Server stack trace: 
    at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
@@ -16,4 +16,4 @@ Exception rethrown at [0]:
    at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
    at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
    at Shared.RpcConnector.Connect(String Name)
-   at Shared.RpcClient.Connect() in C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\Shared\Deps\Remoting\RpcClient.cs:line 103
+   at Shared.RpcClient.Connect() in C:\Users\littl\OneDrive\Documents\GitHub\WorldServerDefiance\ZovixServer\Shared\Deps\Remoting\RpcClient.cs:line 103

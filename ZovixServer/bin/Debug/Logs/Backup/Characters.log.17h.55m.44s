@@ -1,14 +1,18 @@
-[17:56:52] N InitLog : Logger initialized
-[17:56:52] I RpcServer : Starting... 45000
-[17:56:52] I Load : Registering RpcConnector : RpcConnectorpassword
-[17:56:52] I RpcConnector : Server = Shared.RpcServer
-[17:56:52] I RpcServer : Registering Rpc : AccountMgr
-[17:56:52] I RpcServer : Registering Rpc : CacheMgr
-[17:56:52] I RpcServer : Registering Rpc : CharacterMgr
-[17:56:52] S RpcServer : Server listening on : 45000
-[17:56:52] I DBManager : Registering table: Account
-[17:56:54] N DataConnection : Socket exception: (10061) No connection could be made because the target machine actively refused it 127.0.0.1:3306; repeat: False
-[17:56:54] E DataConnecion : ExecuteSelect: "DESCRIBE `Accounts`"
+[17:10:04] N InitLog : Logger initialized
+[17:10:04] I RpcServer : Starting... 6899
+[17:10:04] I Load : Registering RpcConnector : RpcConnectorpassword
+[17:10:04] I RpcConnector : Server = Shared.RpcServer
+[17:10:04] I RpcServer : Registering Rpc : AccountMgr
+[17:10:04] I RpcServer : Registering Rpc : CacheMgr
+[17:10:04] I RpcServer : Registering Rpc : CharacterMgr
+[17:10:04] S RpcServer : Server listening on : 6899
+[17:10:04] I DBManager : Registering table: Account
+[17:10:04] I RpcServer : New client: WorldServer, ID=1
+[17:10:04] I ClientInfo : Loading of : Shared.AccountMgr
+[17:10:04] I ClientInfo : Loading of : Shared.CacheMgr
+[17:10:04] I ClientInfo : Loading of : Shared.CharacterMgr
+[17:10:06] N DataConnection : Socket exception: (10061) No connection could be made because the target machine actively refused it 127.0.0.1:3306; repeat: False
+[17:10:06] E DataConnecion : ExecuteSelect: "DESCRIBE `Accounts`"
 MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:3306
    at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
    at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
@@ -23,7 +27,7 @@ MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of 
    at MySql.Data.MySqlClient.MySqlConnection.Open()
    at Shared.Database.DataConnection.GetMySqlConnection(Boolean& isNewConnection) in C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\Shared\Deps\Database\Connection\DataConnection.cs:line 103
    at Shared.Database.DataConnection.ExecuteSelect(String sqlcommand, QueryCallback callback, IsolationLevel isolation) in C:\Users\Alexis\Downloads\ChameleonProject-master\ChameleonProject-master\Shared\Deps\Database\Connection\DataConnection.cs:line 233
-[17:56:56] E DataConnecion : Error at creating table AccountsMySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:3306
+[17:10:08] E DataConnecion : Error at creating table AccountsMySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:3306
    at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
    at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
    at MySql.Data.Common.StreamCreator.CreateSocketStream(IPAddress ip, Boolean unix)

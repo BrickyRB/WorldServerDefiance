@@ -27,19 +27,19 @@ namespace CharacterServer
             Rm = new Realm();
             Rm.RealmId = Id;
             Rm.Language = Lang;
-            Rm.Online = 1;
+            Rm.Online = 1; // consistantly telling us the realm is invalid. Why? I don't have a fucking clue. This is literal spaghetti
             Rm.PVP = 0;
             Rm.RP = 0;
-            Rm.GenerateName(); // Generate name by RealmId;
+            Rm.GenerateName(); // Generate name by RealmId; this does not work, at all. What the fuck?
 
             if (Type == 1 || Type == 3)
-                Rm.PVP = 1;
+                Rm.PVP = 1; //once again, this is "invalid"
 
             if (Type == 2 || Type == 3)
                 Rm.RP = 1;
 
             CharacterMgr.Instance.AddObject(Rm);
-            CharacterMgr.Instance.LoadRealms();
+            CharacterMgr.Instance.LoadRealms(); //this does not seem to work? Please check
 
             Log.Success("CreateRealm", "Realm '" + Rm.Name + "' Successfully added to database.");
             return true;

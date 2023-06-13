@@ -26,6 +26,10 @@ namespace WorldServer
             Log.Texte("", "  /   | | |  ◄'◄   |   ◄  ,---|", ConsoleColor.Cyan);
             Log.Texte("", "`---'``---'`  ◄ '  | ◄   ◄ Core", ConsoleColor.Cyan);
             Log.Texte("", "http://127.0.0.1", ConsoleColor.Blue);
+            Log.Texte("", "BrickyRB, CB, Zovix, Alex_", ConsoleColor.Cyan);
+            Log.Texte("", "Uses MySQL and the ProjectChameleon-Rift server", ConsoleColor.Cyan);
+            Log.Texte("", "All Rights Reserved To Their Original Owners", ConsoleColor.Red);
+            Log.Texte("", "0.2.0-Pre-Alpha", ConsoleColor.White);
             Log.Texte("", "-------------------------------", ConsoleColor.DarkBlue);
 
             // Loading all configs files

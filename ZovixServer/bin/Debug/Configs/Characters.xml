@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <CharacterConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <IConfiguredTheFile>true</IConfiguredTheFile>
-  <CharacterServerPort>45000</CharacterServerPort>
+  <CharacterServerPort>50000</CharacterServerPort>
   <AccountsDB>
-    <Server>127.0.0.1</Server>
+    <Server>localhost</Server>
     <Port>3306</Port>
     <Database>defiance</Database>
     <Username>root</Username>
@@ -11,7 +11,7 @@
     <Custom>Treat Tiny As Boolean=False</Custom>
   </AccountsDB>
   <CharactersDB>
-    <Server>127.0.0.1</Server>
+    <Server>localhost</Server>
     <Port>3306</Port>
     <Database>defiance</Database>
     <Username>root</Username>

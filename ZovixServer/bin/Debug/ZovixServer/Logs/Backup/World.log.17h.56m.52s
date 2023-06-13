@@ -1,0 +1,2 @@
+[15:50:04] N InitLog : Logger initialized
+[15:50:04] I Connect : Registering connector : tcp://127.0.0.1:6899/RpcConnectorpassword
